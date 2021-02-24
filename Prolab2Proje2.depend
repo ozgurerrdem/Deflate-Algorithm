@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1589724050 source:c:\users\evren ustun\desktop\evren\okul\codeblocks\prolab2proje2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+
